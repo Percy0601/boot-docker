@@ -3,7 +3,7 @@
 # Author: Percy
 
 ### 基础镜像
-FROM openjdk:11
+FROM openjdk:11.0.13-jre-slim
 
 #作者
 MAINTAINER Percy <745356640@qq.com>
